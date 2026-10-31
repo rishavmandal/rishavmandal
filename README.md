@@ -1,7 +1,6 @@
 ## Welcome to my Profile 👋
-
- <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Rishav+Mandal;Data+Analyst+%26+Developer;Python+%7C+SQL+%7C+JavaScript;Building+Web+%26+Automation+Tools" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rishav+Mandal;Data+Analyst+%26+Software+Developer;Python+%7C+SQL+%7C+JavaScript;Power+BI+%7C+Advanced+Excel;Building+Web+Apps+%26+Data+Pipelines" alt="Typing SVG" />
 </h1>
 
 <p align="center">
