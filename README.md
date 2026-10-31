@@ -12,28 +12,35 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me 
+- 🔭 DATA ANALYST
 - 🔭 Working on building impactful web applications.
 - 🌱 Currently expanding my skills in modern web development & open source.
-- 💬 Ask me about **JavaScript, React, Node.js, and Web Technologies**.
 - 📬 How to reach me: Connect with me via LinkedIn or GitHub.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rishavmandal&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=rishavmandal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rishavmandal&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishavmandal/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishavmandal40287@gmail.com) 
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
-### 📊 GitHub Statistics
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishavmandal&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavmandal&layout=compact&theme=radical" width="48%" />
 </p>
@@ -41,16 +48,16 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishavmandal&theme=radical" alt="Streak Stats" />
 </p>
-
+-->
 ---
 
-### 🐍 Contribution Graph
+<!-- ### 🐍 Contribution Graph
 
-<picture>
+<!-- <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishavmandal/rishavmandal/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishavmandal/rishavmandal/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rishavmandal/rishavmandal/output/github-contribution-grid-snake.svg">
-</picture>
+</picture>-->
 
 ---
 
