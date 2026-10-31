@@ -16,7 +16,7 @@
 - 🔭 DATA ANALYST
 - 🔭 Working on building impactful web applications.
 - 🌱 Currently expanding my skills in modern web development & open source.
-- 📬 How to reach me: Connect with me via  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rishavmandal/" target="_blank">LinkedIn </a> or  <a href="https://github.com/rishavmandal" target="_blank">GitHub </a> else   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rishavmandal40287@gmail.com" target="_blank">Send an Email</a>
+- 📬 How to reach me: Connect with me via  <a href="https://www.linkedin.com/in/rishavmandal/" target="_blank">LinkedIn </a> or  <a href="https://github.com/rishavmandal" target="_blank">GitHub </a> else   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rishavmandal40287@gmail.com" target="_blank">Send an Email</a>
 <p align="center">
 
 
