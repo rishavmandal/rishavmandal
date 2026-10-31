@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my Profile 👋
 
  <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Rishav+Mandal;Software+Developer;Tech+Explorer" alt="Typing SVG" />
